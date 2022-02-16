@@ -4,5 +4,25 @@
 }
 
 .background1{
-    background-color: rgb(10, 6, 6);
+    background-color: rgb(39, 36, 36);
+}
+
+.primer_cambio{
+    color: gray;
+    text-align: center;
+}
+
+.pad{
+    padding-top: 25px;
+}
+
+.pad2{
+    padding-left: 30px;
+}
+
+
+.pad3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
